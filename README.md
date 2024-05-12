@@ -3,7 +3,7 @@
 # Our team
 1. [1217050121](https://github.com/ridwanafazn) Ridwan Ahmad Fauzan
 2. [1217050131](https://github.com/samiirham220103) Sami Irhamnillah
-3. [1217050141]() Wildan Fathu Rijan
+3. [1217050141](https://github.com/idhan19) Wildan Fathu Rijan
 4. [1217050146](https://github.com/yudaristian22) Yuda Ristian Asgari
 
 ## What problem do we want to tackle?
