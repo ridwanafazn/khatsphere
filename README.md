@@ -17,7 +17,7 @@ Khatsphere adalah aplikasi yang dirancang untuk membantu pengguna mengidentifika
 Aplikasi Khatsphere sejalan dengan poin 4 dan 11 SDGs ini dengan mempromosikan pendidikan dan kesadaran budaya melalui fitur-fiturnya. Ini memfasilitasi pembelajaran tentang gaya kaligrafi Arab, yang berkontribusi pada pelestarian dan pemahaman budaya. Dengan menyediakan informasi yang mudah diakses dan meningkatkan apresiasi terhadap beragam bentuk seni, Khatsphere mendukung pendidikan, mengurangi ketimpangan budaya, dan berkontribusi pada pembangunan budaya yang berkelanjutan dalam masyarakat.
 
 ## Proposal
-You can check out our project plan [here]() !
+You can check out our project plan [here](https://www.canva.com/design/DAGFBOtk_cs/xWaE3jOv2qPRjPbdsXF0rg/view?utm_content=DAGFBOtk_cs&utm_campaign=designshare&utm_medium=link&utm_source=editor) !
 
 ## Teaser Video Preview
 Get a sneak peek of our project with our teaser video [here](https://www.instagram.com/reel/C63t4nzPKva/) !
